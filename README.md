@@ -1,2 +1,2 @@
 # create-gmail-accounts-by-bot
-this bot can be create the gmail by language python
+this bot you can create gmail by python
