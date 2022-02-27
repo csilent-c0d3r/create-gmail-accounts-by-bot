@@ -2,7 +2,7 @@ import selenium
 from selenium import webdriver
 import time
 
-driver = webdriver.Firefox(executable_path='/home/silent/Downloads/geckodriver')
+driver = webdriver.Firefox(executable_path='./geckodriver')
 driver.get('https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp')
 time.sleep(3)
 
